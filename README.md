@@ -34,7 +34,7 @@ Im a 21 year old and i live in Brazil, Santos/SP and im in love with programming
 ##
 <p align="center">
 <a href="https://github.com/Finno600">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Finno600&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Finno600&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Finno600&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Finno600&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
