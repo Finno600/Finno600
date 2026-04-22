@@ -1,6 +1,6 @@
 # 👋 Hello devs!!
 My name is Luan and my nickname is "Finno600"!
-Im a 21 year old and i live in Brazil, Santos/SP and im in love with programming at the moment!! Im a slow-learner and have a tendency to do irreparable damage to your codes >:).
+Im a 23 year old and i live in Brazil, Santos/SP and im in love with programming at the moment!! Im a slow-learner and have a tendency to do irreparable damage to your codes >:).
 
 ### 🖥️ Technologies and Tools: 
 
