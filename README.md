@@ -1,6 +1,6 @@
 # 👋 Hello devs!!
-My name is Luan and my nickname is "Finno600"!
-Im a 23 year old and i live in Brazil, Santos/SP and im in love with programming at the moment!! Im a slow-learner and have a tendency to do irreparable damage to your codes >:).
+My name is Luan, and my nickname is "Finno600"!
+I'm 23, live in Santos, Brazil (SP), and I'm in love with programming right now!! I'm a slow learner and tend to do irreparable damage to your code >:).
 
 ### 🖥️ Technologies and Tools: 
 
@@ -8,21 +8,20 @@ Im a 23 year old and i live in Brazil, Santos/SP and im in love with programming
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title = "NODE.JS"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 
-### 🌱 Im learning
+### 🌱 I'm learning
 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title = "TYPESCRIPT"/></code>
 
 </br>
 <div display="inline-block">
- <p align="left">🤿 Currently im studying on <a href="https://www.alura.com.br/">Alura</a>;</p>
  <p align="left">💻 I have a degree in Internet Systems; </p>
- <p align="left">📚 Currently trying to search for a Back-end job who needs a JavaScript dev;</p>
+ <p align="left">📚 Currently trying to search for a Back-end job that needs a JavaScript dev;</p>
  <p align="left">☕🎮 I love chocolate, video games and movies;</p>
 </div>
 
 </br>
 
-📫 (OBS: My social medias its totaly in Brazilian Portuguese) I have a [Twitter](https://x.com/Finno600) (i dont talk much on twitter but if you want to talk to me, i can respond if i can :p) or on Discord by the username @Finno600 and you can see my projects already developed, which are available here in the repositories. =)
+📫 (OBS: My social media is totally in Brazilian Portuguese) I have a [Twitter](https://x.com/Finno600) (I don't talk much on Twitter, but if you want to talk to me, I can respond if I can :p) or on Discord under the username @Finno600, and you can see my projects already developed, which are available here in the repositories. =)
 
 </br>
 
